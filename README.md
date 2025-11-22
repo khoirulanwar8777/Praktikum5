@@ -156,3 +156,12 @@ Jika tidak → pesan error
 ###  (K) Keluar Program
 
 Mengakhiri program.
+
+# Program
+## Input
+<img width="960" height="540" alt="ss1" src="https://github.com/user-attachments/assets/a506e33c-0f4c-4500-a8d6-9e3291df03dd" />
+
+## Output
+<img width="960" height="540" alt="ss2" src="https://github.com/user-attachments/assets/36694cfa-ffed-49d9-803f-dda274ded11a" />
+
+
