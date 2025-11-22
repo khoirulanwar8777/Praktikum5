@@ -1,5 +1,5 @@
 # Praktikum5
-PENJELASAN PROGRAM INPUT NILAI MAHASISWA
+# PENJELASAN PROGRAM INPUT NILAI MAHASISWA
 
 Program ini dibuat menggunakan Python dan memanfaatkan struktur data Dictionary untuk menyimpan data mahasiswa. Program dapat menambah, mengubah, menghapus, menampilkan, dan mencari data mahasiswa melalui menu interaktif.
 
